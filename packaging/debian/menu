@@ -1,0 +1,2 @@
+?package(cool-retro-term):needs="X11" section="Applications/Terminal Emulators"\
+  title="cool-retro-term" command="/usr/bin/cool-retro-term"
